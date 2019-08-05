@@ -1,0 +1,3343 @@
+fileFormatVersion: 2
+guid: 7bce8fc5b3592674392e06a3d8f8f223
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: teleporter-effect-edited_0
+    21300002: teleporter-effect-edited_1
+    21300004: teleporter-effect-edited_2
+    21300006: teleporter-effect-edited_3
+    21300008: teleporter-effect-edited_4
+    21300010: teleporter-effect-edited_5
+    21300012: teleporter-effect-edited_6
+    21300014: teleporter-effect-edited_7
+    21300016: teleporter-effect-edited_8
+    21300018: teleporter-effect-edited_9
+    21300020: teleporter-effect-edited_10
+    21300022: teleporter-effect-edited_11
+    21300024: teleporter-effect-edited_12
+    21300026: teleporter-effect-edited_13
+    21300028: teleporter-effect-edited_14
+    21300030: teleporter-effect-edited_15
+    21300032: teleporter-effect-edited_16
+    21300034: teleporter-effect-edited_17
+    21300036: teleporter-effect-edited_18
+    21300038: teleporter-effect-edited_19
+    21300040: teleporter-effect-edited_20
+    21300042: teleporter-effect-edited_21
+    21300044: teleporter-effect-edited_22
+    21300046: teleporter-effect-edited_23
+    21300048: teleporter-effect-edited_24
+    21300050: teleporter-effect-edited_25
+    21300052: teleporter-effect-edited_26
+    21300054: teleporter-effect-edited_27
+    21300056: teleporter-effect-edited_28
+    21300058: teleporter-effect-edited_29
+    21300060: teleporter-effect-edited_30
+    21300062: teleporter-effect-edited_31
+    21300064: teleporter-effect-edited_32
+    21300066: teleporter-effect-edited_33
+    21300068: teleporter-effect-edited_34
+    21300070: teleporter-effect-edited_35
+    21300072: teleporter-effect-edited_36
+    21300074: teleporter-effect-edited_37
+    21300076: teleporter-effect-edited_38
+    21300078: teleporter-effect-edited_39
+    21300080: teleporter-effect-edited_40
+    21300082: teleporter-effect-edited_41
+    21300084: teleporter-effect-edited_42
+    21300086: teleporter-effect-edited_43
+    21300088: teleporter-effect-edited_44
+    21300090: teleporter-effect-edited_45
+    21300092: teleporter-effect-edited_46
+    21300094: teleporter-effect-edited_47
+    21300096: teleporter-effect-edited_48
+    21300098: teleporter-effect-edited_49
+    21300100: teleporter-effect-edited_50
+    21300102: teleporter-effect-edited_51
+    21300104: teleporter-effect-edited_52
+    21300106: teleporter-effect-edited_53
+    21300108: teleporter-effect-edited_54
+    21300110: teleporter-effect-edited_55
+    21300112: teleporter-effect-edited_56
+    21300114: teleporter-effect-edited_57
+    21300116: teleporter-effect-edited_58
+    21300118: teleporter-effect-edited_59
+    21300120: teleporter-effect-edited_60
+    21300122: teleporter-effect-edited_61
+    21300124: teleporter-effect-edited_62
+    21300126: teleporter-effect-edited_63
+    21300128: teleporter-effect-edited_64
+    21300130: teleporter-effect-edited_65
+    21300132: teleporter-effect-edited_66
+    21300134: teleporter-effect-edited_67
+    21300136: teleporter-effect-edited_68
+    21300138: teleporter-effect-edited_69
+    21300140: teleporter-effect-edited_70
+    21300142: teleporter-effect-edited_71
+    21300144: teleporter-effect-edited_72
+    21300146: teleporter-effect-edited_73
+    21300148: teleporter-effect-edited_74
+    21300150: teleporter-effect-edited_75
+    21300152: teleporter-effect-edited_76
+    21300154: teleporter-effect-edited_77
+    21300156: teleporter-effect-edited_78
+    21300158: teleporter-effect-edited_79
+    21300160: teleporter-effect-edited_80
+    21300162: teleporter-effect-edited_81
+    21300164: teleporter-effect-edited_82
+    21300166: teleporter-effect-edited_83
+    21300168: teleporter-effect-edited_84
+    21300170: teleporter-effect-edited_85
+    21300172: teleporter-effect-edited_86
+    21300174: teleporter-effect-edited_87
+    21300176: teleporter-effect-edited_88
+    21300178: teleporter-effect-edited_89
+    21300180: teleporter-effect-edited_90
+    21300182: teleporter-effect-edited_91
+    21300184: teleporter-effect-edited_92
+    21300186: teleporter-effect-edited_93
+    21300188: teleporter-effect-edited_94
+    21300190: teleporter-effect-edited_95
+    21300192: teleporter-effect-edited_96
+    21300194: teleporter-effect-edited_97
+    21300196: teleporter-effect-edited_98
+    21300198: teleporter-effect-edited_99
+    21300200: teleporter-effect-edited_100
+    21300202: teleporter-effect-edited_101
+    21300204: teleporter-effect-edited_102
+    21300206: teleporter-effect-edited_103
+    21300208: teleporter-effect-edited_104
+    21300210: teleporter-effect-edited_105
+    21300212: teleporter-effect-edited_106
+    21300214: teleporter-effect-edited_107
+    21300216: teleporter-effect-edited_108
+    21300218: teleporter-effect-edited_109
+    21300220: teleporter-effect-edited_110
+    21300222: teleporter-effect-edited_111
+    21300224: teleporter-effect-edited_112
+    21300226: teleporter-effect-edited_113
+    21300228: teleporter-effect-edited_114
+    21300230: teleporter-effect-edited_115
+    21300232: teleporter-effect-edited_116
+    21300234: teleporter-effect-edited_117
+    21300236: teleporter-effect-edited_118
+    21300238: teleporter-effect-edited_119
+    21300240: teleporter-effect-edited_120
+    21300242: teleporter-effect-edited_121
+    21300244: teleporter-effect-edited_122
+    21300246: teleporter-effect-edited_123
+    21300248: teleporter-effect-edited_124
+    21300250: teleporter-effect-edited_125
+    21300252: teleporter-effect-edited_126
+    21300254: teleporter-effect-edited_127
+    21300256: teleporter-effect-edited_128
+    21300258: teleporter-effect-edited_129
+    21300260: teleporter-effect-edited_130
+    21300262: teleporter-effect-edited_131
+    21300264: teleporter-effect-edited_132
+    21300266: teleporter-effect-edited_133
+    21300268: teleporter-effect-edited_134
+    21300270: teleporter-effect-edited_135
+    21300272: teleporter-effect-edited_136
+    21300274: teleporter-effect-edited_137
+    21300276: teleporter-effect-edited_138
+    21300278: teleporter-effect-edited_139
+    21300280: teleporter-effect-edited_140
+    21300282: teleporter-effect-edited_141
+    21300284: teleporter-effect-edited_142
+    21300286: teleporter-effect-edited_143
+    21300288: teleporter-effect-edited_144
+    21300290: teleporter-effect-edited_145
+    21300292: teleporter-effect-edited_146
+    21300294: teleporter-effect-edited_147
+    21300296: teleporter-effect-edited_148
+    21300298: teleporter-effect-edited_149
+    21300300: teleporter-effect-edited_150
+    21300302: teleporter-effect-edited_151
+    21300304: teleporter-effect-edited_152
+    21300306: teleporter-effect-edited_153
+    21300308: teleporter-effect-edited_154
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleporter-effect-edited_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2928
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ac29a35131a64199741795022daad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2892
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3592c87b3503143b91fae809a3f59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2894
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc52e4ad4c0658344812138e9aa95fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2892
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94be1db95bb43841bfcd4eaecf55f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_4
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2892
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d1b9bd0ae0624eb410b884a15c98d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_5
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2889
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5699decc431143a05b3032fd1f058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_6
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 2891
+        width: 111
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613d319a215cb5b428fe702988d35c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_7
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 2891
+        width: 117
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d7a89cc629c843ad7b36fdaa3b27d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_8
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2892
+        width: 124
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba2404759e4ec4fb031d264b5e7e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_9
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2891
+        width: 128
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5133c844960aa944aae1970b5a06428d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2572
+        width: 134
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c13f1f7027b740a80d34dc1a00bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2569
+        width: 137
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b2ea8af98a7da42bb5dcacd5127428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2570
+        width: 139
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cdc718fa50b6341b2464dc6f7c741b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2570
+        width: 149
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87a2d77cfca574f9157406a3dc7267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_14
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2570
+        width: 152
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cecb2ca1a7dd041846a3371f146ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_15
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2570
+        width: 153
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2fef0a8afdbb749a892a6b1f3ed060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_16
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2570
+        width: 151
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181564884d8688646afda44c9d801a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_17
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 2570
+        width: 153
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d9d5a3c68a9e47a6c06ed964481f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_18
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2570
+        width: 153
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee561403df377a4cb3201b98269af84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_19
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2570
+        width: 156
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149812a022bbacd48b5b731071fa8134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2248
+        width: 158
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a3495f09068a4b861a715659f3110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2248
+        width: 155
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5509fd2cc2543c4c861f6dafdc33a7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2250
+        width: 157
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067efcbcbb8019846b381860dbb13ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_23
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2250
+        width: 159
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5882cc6c9fe1f449a0662c576ee6499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_24
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2248
+        width: 159
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405eee9e3f9108e4e98c349f05cc91b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_25
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 2250
+        width: 160
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27702159eac82374dbe783d509329deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_26
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2250
+        width: 161
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622287b69c77156459a48f39178ed523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_27
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2248
+        width: 158
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15957a74b26a3d246a438a73764e42ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_28
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2248
+        width: 160
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb8904dfa2e1414b821bab3ba445694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_29
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2248
+        width: 160
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7e21915d4896459da9293a0300fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1930
+        width: 169
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4577fd3a3911449aa10d7b9f3b466c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1930
+        width: 170
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c215c486f1e64f81cd954aaf51343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1928
+        width: 167
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f336a4261d18e964d8556472c6ab3ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_33
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1928
+        width: 167
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d2823b6f27cf41afa744c9167a6fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_34
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1928
+        width: 171
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28726d9fab954d1438866926fbb4fe24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_35
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1928
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c097ef5721c940bc832c6cdda2c72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_36
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1930
+        width: 170
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04f1ada3635af4a8bfef56b333c17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_37
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1930
+        width: 168
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f685ea47cacdad641b31242457ef3b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_38
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1928
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349f00f596723084dac591e52af6a6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_39
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1928
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff210dc864c7c3345bf31f511519b7c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1608
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7281e6a38a4be694da4aaa2346cf281a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1609
+        width: 170
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c897e115b52454a83b4d411969cddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_42
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1609
+        width: 167
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4522aa16b8ac142be2a38223ce617d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_43
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1609
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d058e41b379ab4498e5ec8bb8246d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_44
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1609
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e200b2546aac242849fc8d5439ad0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_45
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1609
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a17cc15426be4193a65d58d0fb23d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_46
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1611
+        width: 165
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306e9c4784a8d84a9cb72aeb4c5a344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_47
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1611
+        width: 169
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd043766d82078a48b497f2696514234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_48
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1611
+        width: 172
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e03f2d5af30b44b05a95882007369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_49
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1611
+        width: 170
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05e36c024ac6d4899aef16d34a0092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1291
+        width: 171
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb3a2113036efc4a99ea0446c9611da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1291
+        width: 168
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e85ee2c68ca245b621d5d286c1a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_52
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1289
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f71142e8a0cd479c0364d25d26d5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_53
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1289
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3879b02c9d7ad43b7c748d8531805a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_54
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1289
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b56cddeb8b8e4688a86e81204d32e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_55
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1289
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143def24a8749542825f69794cb6bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_56
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1289
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272ff878ae37594fb35480a0a3b7142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_57
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1289
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8606944c69a91fd43a78e72fb632ee53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_58
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1289
+        width: 168
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ad9e2119a15245948774fb16a87af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_59
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1289
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3c950d9b1c26743950a52b7646d40a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 970
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6f95d04edb6e489ac34710e06bb42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 970
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5eea3087e3174497f400eac2f1e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_62
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 970
+        width: 167
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6199a4df2697041931dde495599f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_63
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 970
+        width: 171
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4626e76a6f0d7449933aa249cf3bc76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_64
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 970
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b12c1247234524fb5f8b59d917cd70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_65
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 970
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd8eaac79981194e804ca988473bd88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_66
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 970
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e0c50303dd49940a00df859884946e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_67
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 969
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877be01d9766ef47b1d0e99bdfde4a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_68
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 969
+        width: 169
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f9b130bbafa0e4ca9d94e76c527557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_69
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 970
+        width: 169
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441460708c20e4842beac81f88c6649c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 650
+        width: 170
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c0efbc72465c48bd7e6dfde60caf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_71
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 650
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cea31ed54d2744ab9cd8046cf2e3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_72
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 650
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f32d5c24425c4c9ae662af38d976c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_73
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 648
+        width: 176
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846be83dec521434a9ed14318814448e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_74
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 648
+        width: 171
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060bcb91c81236d4cbc5702554ea1ec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_75
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 650
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22263147d30765e418db26253f4ffbcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_76
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 648
+        width: 170
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68e1d2dad5afd4aab113bcc9a0927d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_77
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 648
+        width: 167
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d52302713a9de4db1abdd3f3d63a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_78
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 648
+        width: 170
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8676b3fc212b440a9e95927b0ac2fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_79
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 648
+        width: 172
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89256b89d5fc864fa0a316732e904eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 328
+        width: 171
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad210b7be5c5abf498d62fc0394361eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_81
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 330
+        width: 174
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563255dd14de95498a3c4efc4c0d2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_82
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 330
+        width: 170
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3da2b6767166f4abf51c522d59508e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_83
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 330
+        width: 172
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd393307296c61f4580e5bd9a94237c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_84
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 330
+        width: 173
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce47498641d4b408eb4f27a05574ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_85
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 330
+        width: 170
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ccbc7d54a43540b5d4a5534b74fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_86
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 331
+        width: 172
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86c325d92958141974d335f5fef743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_87
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 331
+        width: 170
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291a59bdaaee884890476458b60c81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_88
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 331
+        width: 170
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d000ffd4b6104d848ae55aa14334950b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_89
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 331
+        width: 171
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad451e82e5ae54499d84e784f7b3cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_90
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 92
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7525067ede6630b4589314958a1f26ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 167
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b98f1ee9423584492f5b6b2f2596a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_92
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 111
+        width: 165
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7bad5a58ba9e4f88c82fe787b6bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_93
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 123
+        width: 166
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683532d7c0a703149a3784d3944a527e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_94
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 131
+        width: 162
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7c98ddbe819a4aa92c80471e497ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_95
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 148
+        width: 161
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae32707434ef3649a97e3a6eac7dbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_96
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 153
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60a34d59c337364e9a48779d5d51cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_97
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 225
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f9a2b1c01dd24fad9ef8c6157e6be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_98
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 242
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a570b870bc7562408342c6106cb419d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_99
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 292
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83eafc4f77bb2a4b8e79dd21c0cc625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_100
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 261
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb01391428b8bb498ae81df81032b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_101
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 186
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad771815eb9a8804594a78495f8c7e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_102
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 281
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9edabbf2f3a5b242bbbbfa171606628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_103
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 284
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5fc3eca40b5f34f878ee564382947e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_104
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 267
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93389de97bc054989b27310e6f1ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_105
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 280
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09bb70036dff44b86bd9c35530eafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_106
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 250
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ccc4e03f91f0d49b5fdc76bccbe8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_107
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 241
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549d74f3697d4a4483fb3cd572e5629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_108
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 264
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d30544206b9b4ca7a259ea49f7034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_109
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 258
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96f2a969ba9d74c89dbf30110f359b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_110
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 272
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38f13e1560e4a4088ec800c93d5d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_111
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 263
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e0af27b70fa044abe61247a15a43f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_112
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 245
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67d0b9cbc4905428c9d0abd4b3c445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_113
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 234
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22fffa1f10853041b8907a30ff1e0a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_114
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 238
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a07cb6f68a61349b8ea082614acd40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_115
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 211
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ae6b5b32ab2d4ca3bd2d5aa3081f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_116
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 203
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b8b5bc1c1caf4449550ecec7efdbe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_117
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 186
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc5150b7ea62854c88972594a6f1367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_118
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 167
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e075f2186502447ab1eb224e935eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_119
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 219
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d6e2acbc84594f90a80dc7d565d23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_120
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 202
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a6b31a17aeaa42bf9f75960f41970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_121
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 203
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3469e3a4da8b751408b89be758a1590c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_122
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 220
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a0238ff26f2c47889f2f72e3a975a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_123
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 214
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e373ea48efa204395bbacec97ea8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_124
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 220
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981cc38a033eaab40b2c1c3cba0e2dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_125
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 219
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22fc3ac07654043a4d4686d8e7727b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_126
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 216
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c545f3ce89692c64a8f11a2a6fd91a36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_127
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 222
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50468df548e0b6b4b8554a600727f794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_128
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 209
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78563affe00fe49a08df269a889cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_129
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 181
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a68e957c071d844912f0ad508509dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_130
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 192
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3187552c62fff84184b7569800901d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_131
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 200
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1193bcf2839d67d4491da229c5164c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_132
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 183
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced01618ba6d3954791f52f5b8395e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_133
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 195
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef16ceb6d9723946ac334b49c67f026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_134
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 169
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff29d0e3e1b31b4d949989b36908892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_135
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 192
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ece9f54ddf5da4cb816bcd48799199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_136
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 175
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1920cc53d075754c81118502afaef2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_137
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 30
+        width: 44
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c7bb3889f1884ab3d30696a06afaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_138
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 167
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5081f773b89104b944cc386a1bb44e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_139
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 150
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951f22b44152fea47936666e8e367175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_140
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb5d82dff3b1c14bb009d9d2a503660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_141
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 13
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c083494214db9704a874977f58d1dbfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_142
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 13
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12163d414d2ff147995798859b8c452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_143
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 14
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47f5aaccf879f4e9e39269e45e7679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_144
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 14
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5dab585499f9e41a4b6767d7905596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_145
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 16
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591dd7927c5d5614a83a3860c40d057e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_146
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 22
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb19cb010d4af4ba1f1b07074efe05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_147
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 19
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434dbb7379a1d4d40966648117841b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_148
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 45
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06901e375790f19479076800f4a971f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_149
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 56
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e972e7cff782e0b49a7f2279724c1039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_150
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 41
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f32487cbdc334796d73810f35795a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_151
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 41
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058278118ea1de64ea490806563711d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_152
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 25
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9286a48cd70394e4792445ddfaa40b5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_153
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 20
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47649e6b4d14ff14bbb5daa4ba366a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-effect-edited_154
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 23
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565e19ead4c9f114b914525dea3bf713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce60ee42a7630a645ab63a7e617fcde5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
